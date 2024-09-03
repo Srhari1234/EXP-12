@@ -45,7 +45,7 @@ int main()
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/d17187cf-f519-4d96-9f5c-d3a450901d45)
+<img width="423" alt="image" src="https://github.com/user-attachments/assets/cdcff579-53a2-4bd3-822c-d30ab72f7194">
 
 ## Defining the constructor outside the class:
 ~~~
@@ -88,7 +88,7 @@ int main()
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/4d5bb89b-88fe-489b-bfc4-cb011a5a9801)
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/d2b99ed5-e1a6-4453-a958-1a519cd45e91">
 
 ## Default constructor:
 ~~~
@@ -128,7 +128,7 @@ int main() {
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/92d8c239-5287-4fca-a6b7-264c3f8f1932)
+<img width="431" alt="image" src="https://github.com/user-attachments/assets/ce64cf60-0f38-46b7-b89c-efcc1eb3a180">
 
 ## Parameterized constructor:
 ~~~
@@ -160,7 +160,7 @@ Num n1(4,3);
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/00e240f3-ca94-4177-b596-98cc668ea592)
+<img width="431" alt="image" src="https://github.com/user-attachments/assets/cb2f69b4-6828-4fd7-91d4-ed04dba9e668">
 
 ## Copy constructor:
 ~~~
@@ -205,7 +205,7 @@ int main() {
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/5d52cb2e-22e1-4a4c-bf14-c0ab14547465)
+<img width="415" alt="image" src="https://github.com/user-attachments/assets/4341e07c-74de-420e-a52f-6be59b12676d">
 
 ## Destructors:
 ~~~
@@ -241,7 +241,7 @@ return 0;
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/690716fa-845c-48a8-b2a1-ca35de6d57a8)
+<img width="423" alt="image" src="https://github.com/user-attachments/assets/6c3d40fc-256b-49c9-b59d-d158f138702d">
 
 ## Conclusion:
 In summary, constructors in C++ are essential for initializing objects and ensuring that they start in a valid state. With their automatic invocation upon object creation, lack of a return type, and support for overloading, constructors provide flexibility in object initialization. While typically defined in the public section of a class, they can also be made private or protected to control object creation. Understanding how to effectively define and utilize constructors is fundamental for robust and efficient C++ programming.
